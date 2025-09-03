@@ -1,0 +1,145 @@
+@charset "utf-8";
+.bodyfondo {
+    background-image: url(../img/universo.jpg);
+}
+.jumbofondo {
+    background-image: url(../img/wallpaper.jpg);
+    background-size: 953px 1229px;
+    background-position: 10% 40%;
+    background-color: hsla(0,0%,0%,0.58);
+}
+.fondo2 {
+    background-image: url(../img/darwin%202.jpg);
+    background-size: 891px 1141px;
+    background-position: 615% 18%;
+}
+.texto5 {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    text-shadow: 0px 0px 24px #000000;
+    -webkit-box-shadow: 0px 0 0px;
+    box-shadow: 0px 0 0px;
+}
+
+.texto4 {
+    color: #FEABCD;
+    font-family: "Sweetie Bubble Gum";
+    text-align: left;
+    text-shadow: 0px 0px 19px #000000;
+}
+
+
+.texto2 {
+    color: hsla(280,72%,74%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-align: right;
+    text-shadow: 0px 0px 19px hsla(0,0%,0%,1.00);
+}
+.texto3 {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: right;
+    text-shadow: 0px 0px 8px hsla(0,0%,0%,1.00);
+}
+.fondo3 {
+    background-image: url(../img/richardtodo.jpg);
+    background-size: 1258px auto;
+    background-position: 39% 7%;
+    background-origin: padding-box;
+}
+.texto6 {
+    color: hsla(48,100%,59%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-shadow: 0px 0px 19px hsla(0,0%,0%,1.00);
+}
+
+.card1 {
+  background: #14173d;
+  border: 2px solid #8888ff;
+  border-radius: 12px;
+  padding: 25px;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(136,136,255,0.4);
+  color: white; /* solo afecta dentro de la card */
+  font-family: Arial, sans-serif;
+}
+
+.card1 h3 {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #aaaaff;
+  margin-bottom: 10px;
+}
+
+.card1 h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.card1 .btn {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  background: transparent;
+  border: 2px solid #5555ff;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card1 .btn:hover {
+  background: #5555ff;
+  color: white;
+}
+.texto1 {
+    color: #FFFFFF;
+    font-family: "Sweetie Bubble Gum";
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+.tamano {
+  max-width: 100%;
+  height: auto;
+  display: block; /* evita espacios raros debajo */
+}
+.imagen {
+    background-image: url(../img/gumball.png);
+    background-size: 0px 0px;
+}
+.blanco {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+.bg_rosado {
+    background-color: hsla(332,76%,81%,1.00);
+}
+.bg_imagen {
+    background-image: url(../img/darwin1-removebg-preview.png);
+}
+
+
+.bg_fondo {
+    background-color: hsla(0,0%,13%,0.00);
+}
+.textowhite {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-align: center;
+    font-size: xx-large;
+}
+.textowhite2 {
+}
+.textob {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+}

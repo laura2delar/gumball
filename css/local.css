@@ -1,0 +1,119 @@
+@charset "utf-8";
+.fondo {
+    background-image: url(../img/universo.jpg);
+}
+.texto1 {
+    color: #FFFFFF;
+    font-family: "Sweetie Bubble Gum";
+    font-size: xx-large;
+}
+.modo   {
+    width: 87%;
+    height: 100%;
+
+
+
+
+
+
+
+}
+
+.placeholder {
+}
+.column {
+}
+.bg_color {
+    background-color: #FEABCD;
+}
+.textoblack {
+    color: #000000;
+    font-family: "Sweetie Bubble Gum";
+}
+.fondoblack {
+    background-color: #000000;
+}
+
+
+
+.tamano {
+    
+    display: block; /* evita espacios raros debajo */
+}
+.imagen1 {
+    background-image: url(../img/D7r2p4IXkAYk5Ai.jpg);
+    background-size: 192% auto;
+    background-position: 48% 68%;
+}
+.imagen2 {
+    background-image: url(../img/netflix_logo_icon_170919.png);
+}
+
+.tamaño {
+}
+.tamano22 {
+    font-family: "Sweetie Bubble Gum";
+    color: #000000;
+    font-size: xx-large;
+}
+.texto3 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: large;
+}
+.bg_fondo2 {
+    background-image: url(url);
+    background-color: #000000;
+}
+.textowhite {
+    color: #FFFFFF;
+    font-family: "Sweetie Bubble Gum";
+    font-size: 53px;
+    font-weight: 400;
+    text-shadow: 0px 0px 40px #000000;
+}
+.textowhite2 {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+
+
+
+
+
+
+.altitud {
+    height: 408px;
+
+
+
+
+
+}
+.altitud2 {
+    height: 474px;
+    width: 0px;
+    min-height: 0px;
+}
+.imagen3 {
+    background-image: url(../img/netflix_logo_icon_170919.png);
+    background-position: 54% 0%;
+    background-size: 71px 0px;
+}
+
+
+.textwhite {
+}
+.imagen4 {
+    background-size: 64px auto;
+}
+.blanco {
+    background-color: #FFFFFF;
+}
+.fondoblanco {
+    background-color: hsla(0,0%,100%,1.00);
+}
+.fondorosado {
+    background-color: hsla(335,98%,83%,1.00);
+}

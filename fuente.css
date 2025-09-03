@@ -1,0 +1,133 @@
+.bg_fondo {
+    background-image: url(img/universo.jpg);
+}
+.bg_interior {
+    background-image: url(img/v8k6Ebi0V62Im3HyrJlQldmT0r1.jpg);
+    background-size: 945px auto;
+}
+.texto {
+    color: #FEABCD;
+    font-family: "Sweetie Bubble Gum";
+    text-shadow: 0px 0px 53px #FEABCD;
+}
+.texto4 {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+    background-color: hsla(335,98%,83%,0.77);
+    border-radius: 13px;
+}
+.textosombra2 {
+    background-color: hsla(45,74%,82%,0.81);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    border-radius: 13px;
+}
+.texto5 {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-align: center;
+    text-shadow: 0px 0px 12px hsla(0,0%,0%,1.00);
+}
+.fondo3 {
+    background-image: url(img/foto2.jpg);
+    background-size: 1017px auto;
+    background-position: 99% 0%;
+}
+.textosombra {
+    color: hsla(0,0%,0%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-color: hsla(280,72%,74%,0.82);
+    border-radius: 13px;
+}
+
+
+
+.fondofamilia {
+    background-image: url(img/familia.jpg);
+    background-size: 990px 629px;
+    background-position: 51% 0%;
+}
+
+
+.fondotrans {
+
+}
+.texroblanco {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-shadow: 0px 0px 20px hsla(0,0%,0%,1.00);
+}
+.fondo4 {
+    background-image: url(img/gumballydarwin.jpg);
+    background-size: 1034px 672px;
+    background-position: 47% 0%;
+}
+.color {
+    background-color: hsla(280,72%,74%,1.00);
+}
+.texto1 {
+    color: #FFFFFF;
+    font-family: "Sweetie Bubble Gum";
+    font-size: xx-large;
+}
+.fondo_5 {
+    background-image: url(img/foto2.jpg);
+    background-size: 1567px 878px;
+    background-position: 4% 22%;
+}
+.texto6 {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    font-size: 66px;
+    text-shadow: 0px 0px 16px hsla(0,0%,0%,1.00);
+}
+.fondoimagen {
+    background-image: url(img/gumball.jpg);
+    background-size: 626px 668px;
+    background-position: 3% 78%;
+}
+.texto7 {
+    font-family: "Sweetie Bubble Gum";
+    color: hsla(0,0%,100%,1.00);
+    font-size: xx-large;
+    text-align: left;
+    text-shadow: 0px 0px 17px hsla(0,0%,0%,1.00);
+}
+.texto8 {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-align: left;
+}
+.bg_fondo2 {
+}
+.fondo1 {
+    background-color: hsla(332,76%,81%,1.00);
+}
+.textocentro {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 0px 0px 11px hsla(0,0%,0%,1.00);
+}
+.fondo9 {
+    background-color: hsla(0,0%,0%,0.17);
+}
+.textoblack {
+    color: hsla(0,0%,0%,1.00);
+    font-family: "Sweetie Bubble Gum";
+    text-align: left;
+    font-size: xx-large;
+}
+.textoblack2 {
+    color: hsla(0,0%,0%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: medium;
+}
+.textocentrow {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+@charset "utf-8";
+.bg-fondo {
+    background-image: url(../img/universo.jpg);
+}
+.bg_trans {
+    background-color: hsla(0,0%,0%,1.00);
+}
+.bg_transparente {
+    background-color: hsla(0,0%,0%,0.39);
+}
+
+
+.tamaño1 {
+    max-width: 156px;
+    min-height: 0px;
+    max-height: 95px;
+}
+.bg_amarillo {
+    background-color: #222222;
+    -webkit-box-shadow: 0px 0px 50px;
+    box-shadow: 0px 0px 50px;
+}
+.tamaño2 {
+    max-height: 69px;
+    max-width: 38px;
+}
+.letra1 {
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 400;
+    background-clip: padding-box;
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+}
+.bg_sobra {
+    -webkit-box-shadow: 0px 0px 6px;
+    box-shadow: 0px 0px 6px;
+}
+
+.letra2 {
+    font-family: bubblegum-sans;
+    font-style: normal;
+    font-weight: 400;
+    color: #87bafc;
+}
+.bg_fondojumbo {
+    background-color: #87BAFC;
+}
+.letra1 {
+}
+.textoparrafo {
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+    color: #FFFFFF;
+    font-size: x-large;
+}
+.bg_fono1 {
+    background-color: #FEABCD;
+}
+.f_f {
+    color: #feabcd;
+}
+.box-shadow {
+}
